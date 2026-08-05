@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Vhutali 🌿
 
-<!--
-**Vhutali-Tshinaiwe/Vhutali-Tshinaiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Student from South Africa 🇿🇦
 
-Here are some ideas to get you started:
+Currently learning:
+• Java
+• HTML & CSS
+• JavaScript
+• Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+🌸 Calculator
+🌸 Nail Salon Website
+🌸 School Safety App
+
+Goal:
+Building one project at a time while becoming a software engineer.
